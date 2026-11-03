@@ -12,7 +12,7 @@
   "files": [
     {
       "path": "MatThan.exe",
-      "sha256": "461f81ccc451a7b43cd2b7febf7a2db1e28d25367026dd39088481137caad3f0",
+      "sha256": "7507bf6253b3ad070403f3daaa8472b3a0b0fd37d441790d3ee72ea7a9677c24",
       "size": 5497157
     },
     {
@@ -817,7 +817,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "d6b469d849d9fdb4f32934694b29b25683771e91568164b260025af956e6fd99",
+      "sha256": "a142b1cc1c13f6539ab3bcc51791c0203547e29c58569bafde9311495b4bbed8",
       "size": 1443565
     },
     {
