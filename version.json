@@ -1,8 +1,10 @@
 {
-  "version": "2.3",
-  "download_link": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.3/Mat_Than_v2.3.exe",
+  "version": "2.5",
+  "download_link": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/Mat.Than.exe",
   "features": [
-    "- Chuyển kênh cập nhật từ Google Drive sang GitHub",
-    "- Các bản cập nhật sau sẽ được tải trực tiếp từ GitHub"
+    "- Tải theo link mới https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/Mat.Than.exe",
+    "- Click tải xong xóa sạch app cũ",
+    "- Từ giờ update nhẹ như lông hồng",
+    "- Vẫn còn nhiều lỗi, sửa từ từ vì không có thời gian nên dùng tạm"
   ]
 }
