@@ -6,13 +6,13 @@
   "launcher_size": 10682710,
   "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/MatThan.exe",
   "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/payload-full-v2.5.zip",
-  "full_zip_sha256": "ee48c7c0c62a52b1bdf15b89e11b6f86ee49f46d3c27bdea10fa5d07e4d01e91",
-  "full_zip_size": 48952321,
+  "full_zip_sha256": "3c2f258268ea8615889257423fe0f27e5aaa1b8b4b49e82683e38614807138b6",
+  "full_zip_size": 49008753,
   "patch": null,
   "files": [
     {
       "path": "MatThan.exe",
-      "sha256": "8372ab385d9aa7fd20beb9aeaf8a1fa73bbe88cd9fa42fef09a65e55b5dcad5f",
+      "sha256": "1b33f3ff5fe2e7a698daede04f5ff52ef62442180eace83e2359fda3c2e3f461",
       "size": 5497084
     },
     {
@@ -817,7 +817,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "a303ce5fd6238dcc3b0205ef487737537460d21d5adefe1639299ff77f3281ea",
+      "sha256": "2a443f73c147f9762d8e58fc23bd9619c8b4ea0df0bd8ac7fdbff4a8c6940163",
       "size": 1443565
     },
     {
@@ -1954,6 +1954,11 @@
       "path": "_internal/pyexpat.pyd",
       "sha256": "c7c7564f7f874fb660a46384980a2cf28bc3e245ca83628a197ccf861eab5560",
       "size": 199448
+    },
+    {
+      "path": "_internal/pyodbc.cp311-win_amd64.pyd",
+      "sha256": "6f3a08315d6be95bd07e0d678a14bbb03af071ff5934e1e66c857cce439b1bdc",
+      "size": 133120
     },
     {
       "path": "_internal/python3.dll",
