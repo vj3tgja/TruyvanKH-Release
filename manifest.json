@@ -1,19 +1,24 @@
 {
-  "payload_version": "2.5",
+  "payload_version": "2.6",
   "launcher_version": "1.1",
-  "launcher_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/Launcher.exe",
-  "launcher_sha256": "0e36f17e50f31252f33a41c9b46ba0802cfa2d72f741b0a974cf5cd830a5e897",
-  "launcher_size": 10682710,
-  "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/MatThan.exe",
-  "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/payload-full-v2.5.zip",
-  "full_zip_sha256": "3c2f258268ea8615889257423fe0f27e5aaa1b8b4b49e82683e38614807138b6",
-  "full_zip_size": 49008753,
-  "patch": null,
+  "launcher_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/Launcher.exe",
+  "launcher_sha256": "286e7324df08a5a46f46c6096521d37204b094644adaf5a0d120ac916f2e9d94",
+  "launcher_size": 10683020,
+  "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/MatThan.exe",
+  "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/payload-full-v2.6.zip",
+  "full_zip_sha256": "a6ee1bbf9a7daddb76a97b613d6e959d4fe15a8174f89de74f37db0aceee156b",
+  "full_zip_size": 49010197,
+  "patch": {
+    "from_version": "2.5",
+    "url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/patch-from-v2.5.zip",
+    "sha256": "fc150944918f5acbf12bbb1ee4a6a2b54f4925a3ccc4a1051efdea2b3310d573",
+    "size": 5747004
+  },
   "files": [
     {
       "path": "MatThan.exe",
-      "sha256": "1b33f3ff5fe2e7a698daede04f5ff52ef62442180eace83e2359fda3c2e3f461",
-      "size": 5497084
+      "sha256": "a15dfff96c1722b8a96e9ebc92dbd451c594c21e62769366515cd3f8a52e2159",
+      "size": 5497085
     },
     {
       "path": "_internal/Mau bieu/01TGTV  mới nhất bắt đầu từ tháng 3.2026.docx",
@@ -817,7 +822,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "2a443f73c147f9762d8e58fc23bd9619c8b4ea0df0bd8ac7fdbff4a8c6940163",
+      "sha256": "e1862a312245e90c0e1242ae31740c9c44d6a9f1a6db498df34b3abc86292bbd",
       "size": 1443565
     },
     {
