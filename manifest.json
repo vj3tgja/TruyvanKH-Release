@@ -6,13 +6,13 @@
   "launcher_size": 10682710,
   "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/MatThan.exe",
   "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.5/payload-full-v2.5.zip",
-  "full_zip_sha256": "9fe3084d2f15ef3deb3a93cc4e8dc885b32754db81b5a1a7223c9f6920fe151a",
-  "full_zip_size": 48953031,
+  "full_zip_sha256": "ee48c7c0c62a52b1bdf15b89e11b6f86ee49f46d3c27bdea10fa5d07e4d01e91",
+  "full_zip_size": 48952321,
   "patch": null,
   "files": [
     {
       "path": "MatThan.exe",
-      "sha256": "3b77c109a0d4afc52ca69332445fb885e767581f4068b1902af791e41de58ef9",
+      "sha256": "8372ab385d9aa7fd20beb9aeaf8a1fa73bbe88cd9fa42fef09a65e55b5dcad5f",
       "size": 5497084
     },
     {
@@ -817,7 +817,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "5d0c18f832c4afe80716060fd4e4063705af8758847d1d75aac8b717ead4f2bd",
+      "sha256": "a303ce5fd6238dcc3b0205ef487737537460d21d5adefe1639299ff77f3281ea",
       "size": 1443565
     },
     {
