@@ -1,24 +1,24 @@
 {
-  "payload_version": "2.6",
-  "launcher_version": "1.1",
-  "launcher_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/Launcher.exe",
-  "launcher_sha256": "286e7324df08a5a46f46c6096521d37204b094644adaf5a0d120ac916f2e9d94",
-  "launcher_size": 10683020,
-  "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/MatThan.exe",
-  "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/payload-full-v2.6.zip",
-  "full_zip_sha256": "a6ee1bbf9a7daddb76a97b613d6e959d4fe15a8174f89de74f37db0aceee156b",
-  "full_zip_size": 49010197,
+  "payload_version": "2.7",
+  "launcher_version": "1.3",
+  "launcher_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/Launcher.exe",
+  "launcher_sha256": "e14831b93cc079ba901b3f6e96850f8ade04b07971905c7d8c2ceb05c93de2ff",
+  "launcher_size": 10683664,
+  "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/MatThan.exe",
+  "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/payload-full-v2.7.zip",
+  "full_zip_sha256": "cf5ae779de19f6e28875ca8a866e719bf69f3cdfca1a536bdf4ea3c6607db016",
+  "full_zip_size": 49047745,
   "patch": {
-    "from_version": "2.5",
-    "url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/patch-from-v2.5.zip",
-    "sha256": "fc150944918f5acbf12bbb1ee4a6a2b54f4925a3ccc4a1051efdea2b3310d573",
-    "size": 5747004
+    "from_version": "2.6",
+    "url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/patch-from-v2.6.zip",
+    "sha256": "a45a8a66c67d1cf77f5b63c197b904aa8db4063ab57be551c1b404681b697d97",
+    "size": 5784552
   },
   "files": [
     {
       "path": "MatThan.exe",
-      "sha256": "a15dfff96c1722b8a96e9ebc92dbd451c594c21e62769366515cd3f8a52e2159",
-      "size": 5497085
+      "sha256": "d2fa3642a735884e54359335c65779f627df25f2260a45beb2580ea2e627ea6a",
+      "size": 5533268
     },
     {
       "path": "_internal/Mau bieu/01TGTV  mới nhất bắt đầu từ tháng 3.2026.docx",
@@ -79,6 +79,11 @@
       "path": "_internal/Mau bieu/Thông báo KL giao ban.docx",
       "sha256": "7e601cee64a90730b8d1dbcf852fd04f4ed5e687241000c85737960f973875d3",
       "size": 40306
+    },
+    {
+      "path": "_internal/Mau bieu/~$ong bao cho vay.doc",
+      "sha256": "2ec80dc89bbb1d6cf1e580f6f59896e11ca063a5b0e8304a5eeec3bb5f196533",
+      "size": 162
     },
     {
       "path": "_internal/Mau11-HĐUN.docx",
@@ -822,7 +827,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "e1862a312245e90c0e1242ae31740c9c44d6a9f1a6db498df34b3abc86292bbd",
+      "sha256": "c580257eaa2eb53e5bb0de2f62c1738e06f8f2ffde05af7938fbaad8e985908c",
       "size": 1443565
     },
     {
