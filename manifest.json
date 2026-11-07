@@ -1,9 +1,9 @@
 {
   "payload_version": "2.7",
-  "launcher_version": "1.2",
+  "launcher_version": "1.3",
   "launcher_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/Launcher.exe",
-  "launcher_sha256": "c4344ca37582ff6b7ae8769b547eb514329ab85d8c027179204c9f1cd45e09d1",
-  "launcher_size": 10684714,
+  "launcher_sha256": "89845752f4cff8660b661a7eda0dd90ad20c7e1669930e67bfe4d2883707dd6c",
+  "launcher_size": 10720584,
   "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/MatThan.exe",
   "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/payload-full-v2.7.zip",
   "full_zip_sha256": "67915546840e9176b1631183ce1d90a5308c72694980fae72b250661ef7257ea",
