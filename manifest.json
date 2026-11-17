@@ -1,24 +1,24 @@
 {
-  "payload_version": "2.6",
-  "launcher_version": "1.1",
-  "launcher_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/Launcher.exe",
-  "launcher_sha256": "286e7324df08a5a46f46c6096521d37204b094644adaf5a0d120ac916f2e9d94",
-  "launcher_size": 10683020,
-  "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/MatThan.exe",
-  "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/payload-full-v2.6.zip",
-  "full_zip_sha256": "a6ee1bbf9a7daddb76a97b613d6e959d4fe15a8174f89de74f37db0aceee156b",
-  "full_zip_size": 49010197,
+  "payload_version": "2.7",
+  "launcher_version": "1.5",
+  "launcher_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/Launcher.exe",
+  "launcher_sha256": "bafea02af2bc36d41bbcebd10fc97505b0383bdf5e13d3b4a4b96ce9e84f6d80",
+  "launcher_size": 10689265,
+  "stub_download_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/MatThan.exe",
+  "full_zip_url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/payload-full-v2.7.zip",
+  "full_zip_sha256": "eb6ecbdf42d2a9f2888f053a2f9c5f090d27335795dd87e4c4cba37c22c9ccba",
+  "full_zip_size": 57008860,
   "patch": {
-    "from_version": "2.5",
-    "url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.6/patch-from-v2.5.zip",
-    "sha256": "fc150944918f5acbf12bbb1ee4a6a2b54f4925a3ccc4a1051efdea2b3310d573",
-    "size": 5747004
+    "from_version": "2.6",
+    "url": "https://github.com/vj3tgja/TruyvanKH-Release/releases/download/v2.7/patch-from-v2.6.zip",
+    "sha256": "e75e52c0f74c953f8514274d76f483ba76d5b9548078d70ff9d898e07e686c14",
+    "size": 13745667
   },
   "files": [
     {
       "path": "MatThan.exe",
-      "sha256": "a15dfff96c1722b8a96e9ebc92dbd451c594c21e62769366515cd3f8a52e2159",
-      "size": 5497085
+      "sha256": "6e200dbf5742390c1a1ddec1e25222edb0ad5022e9688be085d782248070ee2c",
+      "size": 6168320
     },
     {
       "path": "_internal/Mau bieu/01TGTV  mới nhất bắt đầu từ tháng 3.2026.docx",
@@ -36,6 +36,11 @@
       "size": 61628
     },
     {
+      "path": "_internal/Mau bieu/02A.TGTT.pdf",
+      "sha256": "5420348bc7034ccdc9e32f459d3be24df967d0782973b15ff6d67f297ea8f4d0",
+      "size": 464352
+    },
+    {
       "path": "_internal/Mau bieu/07A.TGTT.doc",
       "sha256": "d500d29275c515aeb841029867a9e0ba65068bef632dbd47e738045b5f65ff37",
       "size": 127488
@@ -46,9 +51,24 @@
       "size": 48448
     },
     {
+      "path": "_internal/Mau bieu/07A.TGTT.pdf",
+      "sha256": "16843f9d05e64e4cbd9ffbdc43d395badd1a177611164bac9fd0d01199b4426d",
+      "size": 198483
+    },
+    {
       "path": "_internal/Mau bieu/07B.TGTT.doc",
       "sha256": "d3dc0c1cf59f43582b6edec1d818d7aa67726a36b58909fc3eaa40d007eb4d31",
       "size": 261632
+    },
+    {
+      "path": "_internal/Mau bieu/07B.TGTT.docx",
+      "sha256": "6210455df46625195808ec58d39c514535382a704d91c42c28858f1558f41621",
+      "size": 122549
+    },
+    {
+      "path": "_internal/Mau bieu/07B.TGTT.pdf",
+      "sha256": "7954e407154807b7a02154ac4488204754a4fa2dc4f89a70a9d1f2b484fefb83",
+      "size": 486886
     },
     {
       "path": "_internal/Mau bieu/3.5. Mẫu 05.GDX Danh sách giải ngân tại GDX.xlsx",
@@ -76,14 +96,49 @@
       "size": 128512
     },
     {
+      "path": "_internal/Mau bieu/Thong bao cho vay.docx",
+      "sha256": "530314122688b7986d163e5ea4597be99bc4b5ed434be1e3bb9a6d58e012a97c",
+      "size": 116064
+    },
+    {
       "path": "_internal/Mau bieu/Thông báo KL giao ban.docx",
       "sha256": "7e601cee64a90730b8d1dbcf852fd04f4ed5e687241000c85737960f973875d3",
       "size": 40306
     },
     {
+      "path": "_internal/Mau bieu/~$ong bao cho vay.doc",
+      "sha256": "2ec80dc89bbb1d6cf1e580f6f59896e11ca063a5b0e8304a5eeec3bb5f196533",
+      "size": 162
+    },
+    {
       "path": "_internal/Mau11-HĐUN.docx",
       "sha256": "66b9a26a3ad15bf4d6bb9b707803aa2f586be298548e3670fdc728437551580b",
       "size": 47582
+    },
+    {
+      "path": "_internal/PIL/_avif.cp311-win_amd64.pyd",
+      "sha256": "93d18fd6e9170db341560cc3b3909e01346fcaad6ac26128bb8fafca65b4c546",
+      "size": 7888896
+    },
+    {
+      "path": "_internal/PIL/_imaging.cp311-win_amd64.pyd",
+      "sha256": "1ead5ef5fb2b0b40d5a92c4baa5e4e111b187e9f9f4e895a1ab8cea8e12318f2",
+      "size": 2662400
+    },
+    {
+      "path": "_internal/PIL/_imagingcms.cp311-win_amd64.pyd",
+      "sha256": "6b2b71a29b684727c100cbe2810a69cde03d32fd489150f90ef7ca155556a5fe",
+      "size": 275968
+    },
+    {
+      "path": "_internal/PIL/_imagingtk.cp311-win_amd64.pyd",
+      "sha256": "d3a5ebaf8a550fe1e3a5baed6eac89e6e21a5ccd3c8f8f22ae577a57248173c7",
+      "size": 14336
+    },
+    {
+      "path": "_internal/PIL/_webp.cp311-win_amd64.pyd",
+      "sha256": "2d5846f349212f73e613ab18076851d360d3deb0dd7b41db76357ed06e65f39d",
+      "size": 415744
     },
     {
       "path": "_internal/PyQt6/Qt6/bin/MSVCP140.dll",
@@ -822,7 +877,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "e1862a312245e90c0e1242ae31740c9c44d6a9f1a6db498df34b3abc86292bbd",
+      "sha256": "a74247e25109ef67ec78fe2dca60c799d9562a8be10a6a84dfdc3b64402f0806",
       "size": 1443565
     },
     {
@@ -1976,6 +2031,16 @@
       "size": 5800216
     },
     {
+      "path": "_internal/pywin32_system32/pythoncom311.dll",
+      "sha256": "f20794876cd77d37d893512bdd8f2112bb791e134ebf2697c9034fa32eb93c11",
+      "size": 680960
+    },
+    {
+      "path": "_internal/pywin32_system32/pywintypes311.dll",
+      "sha256": "dcc14a7ed85a324e357eab7db970d8db61387c8b5d6baa23283aabd8300c4e09",
+      "size": 135168
+    },
+    {
       "path": "_internal/qr.jpg",
       "sha256": "fa77cf91f1c73eb4fe28a3677596fb2099583cd55504c67daaffb0d867e2fcef",
       "size": 109721
@@ -1989,6 +2054,11 @@
       "path": "_internal/unicodedata.pyd",
       "sha256": "37c68617fa02a2cadced17ef724e2d450ef12a8a37215da789a4679fde1c5c02",
       "size": 1140504
+    },
+    {
+      "path": "_internal/win32/_win32sysloader.pyd",
+      "sha256": "8ad2e21cd1a627fa36f082ce0b71f81c91f9d3825908a520072245a2545e1be1",
+      "size": 15872
     }
   ],
   "deleted": []
